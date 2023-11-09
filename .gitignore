@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+node_modules
+src
+package-lock.json
+package.json
+postcss.config.js
+tailwind.config.js

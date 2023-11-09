@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50"
+   height="50"
+   viewBox="0 0 13.229167 13.229167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="church.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="600px"
+     inkscape:zoom="1.7889802"
+     inkscape:cx="14.53342"
+     inkscape:cy="31.861728"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="XMLID_5_">
+      <use
+         xlink:href="#XMLID_16772_"
+         style="overflow:visible"
+         id="use17"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="clipPath6875">
+      <use
+         xlink:href="#XMLID_16772_"
+         style="overflow:visible"
+         id="use6873"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="clipPath6879">
+      <use
+         xlink:href="#XMLID_16772_"
+         style="overflow:visible"
+         id="use6877"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="clipPath6883">
+      <use
+         xlink:href="#XMLID_16772_"
+         style="overflow:visible"
+         id="use6881"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="clipPath6887">
+      <use
+         xlink:href="#XMLID_16772_"
+         style="overflow:visible"
+         id="use6885"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <polygon
+       id="polygon14676"
+       points="111.8,446.4 111.8,55.6 388.2,55.6 388.2,446.4 " />
+    <polygon
+       id="polygon15913"
+       points="111.8,446.4 111.8,55.6 388.2,55.6 388.2,446.4 " />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13492">
+      <rect
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.31484;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect13494"
+         width="125.61568"
+         height="178.28725"
+         x="-235.19518"
+         y="-43.098331"
+         ry="4.250833"
+         rx="4.5890565"
+         transform="scale(-1,1)" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g988"
+       transform="matrix(0.10807769,0,0,-0.10807769,-61.71024,49.878902)"
+       style="fill:#a86821;fill-opacity:1">
+      <g
+         id="g32"
+         transform="translate(648.38248,382.00057)"
+         style="fill:#a86821;fill-opacity:1">
+        <path
+           d="M 0,0 C 0,2.354 1.031,4.629 2.922,6.423 4.806,4.629 5.843,2.354 5.843,0 V -9.033 L 0,-3.19 Z M -38.236,-9.027 V 0 c 0,2.354 1.03,4.629 2.921,6.423 1.885,-1.794 2.922,-4.069 2.922,-6.423 v -3.184 z m 31.71,55.912 v -3.11 c 24.068,-4.551 42.335,-25.727 42.335,-51.1 0,-9.125 -2.361,-17.706 -6.508,-25.166 l -3.086,3.086 V -7.032 L 13.418,5.764 V -16.608 L 9.32,-12.51 V 9.863 L -3.477,22.659 V 0.287 l -6.325,6.325 v 20.914 c 0,4.671 -1.518,9.205 -4.317,12.926 v 24.125 h 7.592 v 4.161 h -7.592 v 6.783 h -4.16 v -6.783 h -7.592 v -4.161 h 7.592 V 40.445 c -2.796,-3.719 -4.319,-8.251 -4.319,-12.919 V 6.612 L -28.917,0.293 V 22.665 L -41.719,9.863 V -12.51 l -4.099,-4.098 V 5.764 L -58.614,-7.032 v -22.373 l -3.086,-3.086 c -4.148,7.46 -6.508,16.041 -6.508,25.166 0,25.373 18.267,46.549 42.335,51.1 v 3.11 c -25.763,-4.58 -45.385,-27.148 -45.385,-54.21 0,-9.973 2.659,-19.329 7.319,-27.404 0.824,-1.434 1.714,-2.83 2.672,-4.178 h 2.653 1.122 1.086 l 10.588,10.588 v 0 l 4.099,4.099 12.802,12.808 6.319,6.319 6.398,6.398 6.398,-6.398 v 0 l 6.325,-6.325 12.797,-12.802 4.098,-4.099 v 0 l 10.589,-10.588 h 1.085 1.123 2.653 c 0.958,1.348 1.848,2.744 2.671,4.178 4.66,8.075 7.319,17.431 7.319,27.404 0,27.062 -19.621,49.623 -45.384,54.21"
+           style="fill:#a86821;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path34" />
+      </g>
+      <g
+         id="g36"
+         transform="translate(632.18338,365.41317)"
+         style="fill:#a86821;fill-opacity:1">
+        <path
+           d="m 0,0 v 0 c -3.771,-3.584 -5.843,-8.139 -5.843,-12.849 v -9.469 H 5.843 v 9.469 C 5.843,-8.139 3.771,-3.584 0,0"
+           style="fill:#a86821;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path38" />
+      </g>
+    </g>
+  </g>
+</svg>
